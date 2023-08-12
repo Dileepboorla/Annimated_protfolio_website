@@ -77,12 +77,7 @@ const Resume = () => {
                   Year 2020 - Year 2024
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Vidya Jyothi Institute of Engineering and Technology (VJIT) is a well-known technical institute that offers a range of engineering programs, including Information Technology (IT). Located in Hyderabad, India, VJIT is renowned for its quality education and emphasis on practical learning. The Information Technology branch at VJIT focuses on equipping students with the necessary skills to excel in the rapidly evolving field of technology. 
                 </p>
               </div>
             </div>
